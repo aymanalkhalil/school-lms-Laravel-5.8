@@ -1,0 +1,3 @@
+[16-Aug-2020 05:39:03 Asia/Riyadh] Exception ignored in shutdown function tool_log\log\manager::dispose: خطاء في القراءة من قاعدة البيانات
+[23-Aug-2020 11:52:49 Asia/Riyadh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[14-Sep-2020 20:00:05 Asia/Riyadh] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database

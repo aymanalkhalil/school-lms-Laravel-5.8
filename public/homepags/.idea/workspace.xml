@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af8f3c6e-b928-4b4f-95b4-f356b5d276ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="396" column="8" selection-start-line="396" selection-start-column="8" selection-end-line="396" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/style.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27438">
+              <caret line="1614" column="6" selection-start-line="1614" selection-start-column="6" selection-end-line="1614" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="41" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img-fluid</find>
+      <find>challange_img_inner</find>
+      <find>challange_img_inne</find>
+      <find>dropdown-menu</find>
+      <find>lef</find>
+      <find>banner-bg</find>
+      <find>bd-callout</find>
+      <find>get_in_touch_area</find>
+      <find>get_in_touch_area p_100</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/h/h/contact.html" />
+        <option value="$PROJECT_DIR$/h/h/about-us.html" />
+        <option value="$PROJECT_DIR$/h/h/rafed.html" />
+        <option value="$PROJECT_DIR$/h/h/portfolio.html" />
+        <option value="$PROJECT_DIR$/h/h/diploma_r.html" />
+        <option value="$PROJECT_DIR$/h/h/diploma_m.html" />
+        <option value="$PROJECT_DIR$/h/h/diploma_a.html" />
+        <option value="$PROJECT_DIR$/h/h/shor.html" />
+        <option value="$PROJECT_DIR$/h/h/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/h/h/index.html" />
+        <option value="$PROJECT_DIR$/h/h/css/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/scss/_contact.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="18" />
+    <option name="width" value="1347" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af8f3c6e-b928-4b4f-95b4-f356b5d276ab" name="Default Changelist" comment="" />
+      <created>1552757484881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552757484881</updated>
+      <workItem from="1552757486097" duration="1425000" />
+      <workItem from="1552835235299" duration="707000" />
+      <workItem from="1553093090020" duration="611000" />
+      <workItem from="1553115764466" duration="1782000" />
+      <workItem from="1553118596721" duration="1132000" />
+      <workItem from="1553188238668" duration="603000" />
+      <workItem from="1553190468430" duration="677000" />
+      <workItem from="1553191350015" duration="561000" />
+      <workItem from="1553191987647" duration="35000" />
+      <workItem from="1553192024899" duration="1750000" />
+      <workItem from="1553372222514" duration="1783000" />
+      <workItem from="1553374188593" duration="1780000" />
+      <workItem from="1553378308539" duration="1779000" />
+      <workItem from="1553418896217" duration="669000" />
+      <workItem from="1553423507704" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15417000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2145749" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_portfolio.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_predefin.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_slider.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/about-us.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/prepros-6.config" />
+    <entry file="file://$PROJECT_DIR$/h/h/shor.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/rafed.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/portfolio.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/diploma_r.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/diploma_a.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/diploma_m.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_chart.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_blog.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/h/h/css/responsive.css" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_banner.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/h/h/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_contact.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/scss/_button.scss" />
+    <entry file="file://$PROJECT_DIR$/h/h/contact.html" />
+    <entry file="file://$PROJECT_DIR$/h/h/contact_process.php" />
+    <entry file="file://$PROJECT_DIR$/h/h/index.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="396" column="8" selection-start-line="396" selection-start-column="8" selection-end-line="396" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27438">
+          <caret line="1614" column="6" selection-start-line="1614" selection-start-column="6" selection-end-line="1614" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="41" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
